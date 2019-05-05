@@ -6,7 +6,7 @@
 # Site
 title: Wanderland of Snow
 subtitle: 一个程序猿的博客
-description: 一个人的知识、学历、才华等都是外化，其真正具有竞争性的资本是他的学习能力
+description: 不能把这个世界让给你鄙视和鄙视你的人
 author: xiaosagebai
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
